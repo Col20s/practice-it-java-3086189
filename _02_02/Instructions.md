@@ -4,3 +4,13 @@
 - A field of type String called destination
 - A field called price of type double
 - A field called isReturn of type boolean
+
+public class Ticket {
+  
+   public Ticket() {
+
+   }
+   private String destination;
+   private doubel price;
+   boolean isReturn
+}
